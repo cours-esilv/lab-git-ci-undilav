@@ -1,0 +1,3 @@
+IL suffit  de mettre 
+get log --grep Ginny 
+et nous pouvons trouver ensuite Ginny dans le get log
